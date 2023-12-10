@@ -34,9 +34,6 @@ pip3 install -r files/requirements.txt --break-system-packages
 Run the tool
 python3 pyphisher.py
 
-Or, directly run
-wget https://raw.githubusercontent.com/KKCyberExpert/PyPhisher/main/pyphisher.py && python3 pyphisher.py
-
 Pip
 pip3 install pyphisher [For Termux]
 sudo pip3 install pyphisher  --break-system-packages [For Linux]
