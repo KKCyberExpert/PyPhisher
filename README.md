@@ -32,6 +32,7 @@ Install all modules
 pip3 install -r files/requirements.txt --break-system-packages
 
 Run the tool
+
 python3 pyphisher.py
 
 Pip
